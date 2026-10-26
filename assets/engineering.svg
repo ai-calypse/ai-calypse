@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="350" viewBox="0 0 1120 350" role="img" aria-labelledby="title desc">
+<title id="title">ai-calypse — Build it. Break it. Prove it.</title>
+<desc id="desc">Backend systems, voice AI, and tools with evidence. A signal travels from idea through code, fault tests, and measured results.</desc>
+<defs><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M 28 0 L 0 0 0 28" fill="none" stroke="#20314b" stroke-width=".65"/></pattern><linearGradient id="bg"><stop stop-color="#07111e"/><stop offset="1" stop-color="#10263a"/></linearGradient></defs>
+<rect width="1120" height="350" rx="20" fill="url(#bg)"/>
+<rect width="1120" height="350" rx="20" fill="url(#grid)" opacity=".65"/>
+<circle cx="1048" cy="75" r="110" fill="#4ee4b8" opacity=".045"/>
+<g font-family="ui-monospace,SFMono-Regular,Consolas,monospace">
+<text x="54" y="53" font-size="14" fill="#5ae3c0" letter-spacing="3">AI-CALYPSE / ENGINEERING IN THE OPEN</text>
+<text x="50" y="119" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="49" font-weight="750" fill="#eff6ff">Build it. Break it. Prove it.</text>
+<text x="54" y="158" font-size="17" fill="#afc2d7">Distributed backends · voice AI · developer tools</text>
+<path d="M82 250 H230 L256 224 L282 276 L308 237 L334 250 H514 L540 230 L566 269 L592 250 H1016" fill="none" stroke="#5ae3c0" stroke-width="2.5"/>
+<g fill="#0d2031" stroke="#5ae3c0" stroke-width="2"><circle cx="82" cy="250" r="8"/><circle cx="398" cy="250" r="8"/><circle cx="714" cy="250" r="8"/><circle cx="1016" cy="250" r="8"/></g>
+<g font-size="13" fill="#c5d5e6"><text x="54" y="307">01 / IDEA</text><text x="348" y="307">02 / CODE</text><text x="650" y="307">03 / FAULT TEST</text><text x="946" y="307">04 / EVIDENCE</text></g>
+<text x="870" y="52" font-size="12" fill="#b5cce2">Go / Java / TS / Swift</text>
+</g></svg>
